@@ -1,0 +1,12 @@
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\bin\Debug\net5.0\KocApp.Entities.deps.json
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\bin\Debug\net5.0\KocApp.Entities.dll
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\bin\Debug\net5.0\ref\KocApp.Entities.dll
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\bin\Debug\net5.0\KocApp.Entities.pdb
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.csproj.AssemblyReference.cache
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.AssemblyInfoInputs.cache
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.AssemblyInfo.cs
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.dll
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\ref\KocApp.Entities.dll
+C:\Users\mesut\source\repos\KocApp\KocApp.Entities\obj\Debug\net5.0\KocApp.Entities.pdb
